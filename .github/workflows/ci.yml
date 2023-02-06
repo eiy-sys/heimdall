@@ -6,6 +6,7 @@ on:
       - "master"
       - "qa"
       - "develop"
+      - "v0.3.0-bone"
   pull_request:
     branches:
       - "**"
